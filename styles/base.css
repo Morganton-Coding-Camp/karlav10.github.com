@@ -1,6 +1,7 @@
 /* Base styles */
 
-body {
+body { light blue;
+  color:black
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
