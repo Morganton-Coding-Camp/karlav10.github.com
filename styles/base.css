@@ -85,10 +85,10 @@ iframe {
   padding: 3rem;
   width: auto
   text-align: right;
-  brackground:#ae70db
+  brackground:#ae70db;
   color: white;
-  border:10px solid #d1adea
-  font-size: 4.0rem;
+  border:10px solid #d1adea;
+  font-size: 3.5rem;
 }
 
   .profile-img {
