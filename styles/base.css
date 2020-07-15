@@ -1,8 +1,8 @@
 /* Base styles */
 
 body { 
- background:red;
-  color: Black;
+ background:purple;
+  color: white;
   font-family: 'Bangers', cursive;
   letter-spacing: .025rem;
 }
